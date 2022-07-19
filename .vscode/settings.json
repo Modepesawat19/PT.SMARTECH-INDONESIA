@@ -1,3 +1,14 @@
 {
     "liveServer.settings.port": 5501
+    
+}
+
+{
+    "workbench.colorTheme": " Default Dark",
+    "terminal.integrated.profile.windows": {
+        "Bash": {
+            "path":"C:\\Program Files\\Git\\bin\\bash.exe",
+            "args" : ["-1"]
+        }
+    }
 }
